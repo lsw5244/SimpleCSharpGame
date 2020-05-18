@@ -1,0 +1,30 @@
+c:\users\이성우\documents\visual studio 2015\Projects\SFS\SFS\bin\Debug\SFS.exe.config
+c:\users\이성우\documents\visual studio 2015\Projects\SFS\SFS\bin\Debug\SFS.exe
+c:\users\이성우\documents\visual studio 2015\Projects\SFS\SFS\bin\Debug\SFS.pdb
+c:\users\이성우\documents\visual studio 2015\Projects\SFS\SFS\obj\Debug\SFS.exe
+c:\users\이성우\documents\visual studio 2015\Projects\SFS\SFS\obj\Debug\SFS.pdb
+F:\c#기말\SFS\SFS\bin\Debug\SFS.exe.config
+F:\c#기말\SFS\SFS\obj\Debug\SFS.exe
+F:\c#기말\SFS\SFS\obj\Debug\SFS.pdb
+F:\c#기말\SFS\SFS\bin\Debug\SFS.exe
+F:\c#기말\SFS\SFS\bin\Debug\SFS.pdb
+F:\c#기말\SFS\SFS\obj\Debug\SFS.csprojResolveAssemblyReference.cache
+E:\c#기말\SFS\SFS\bin\Debug\SFS.exe.config
+E:\c#기말\SFS\SFS\bin\Debug\SFS.exe
+E:\c#기말\SFS\SFS\bin\Debug\SFS.pdb
+E:\c#기말\SFS\SFS\obj\Debug\SFS.exe
+E:\c#기말\SFS\SFS\obj\Debug\SFS.pdb
+C:\Users\PC1\Desktop\SFS\SFS\bin\Debug\SFS.exe.config
+C:\Users\PC1\Desktop\SFS\SFS\bin\Debug\SFS.exe
+C:\Users\PC1\Desktop\SFS\SFS\bin\Debug\SFS.pdb
+C:\Users\PC1\Desktop\SFS\SFS\obj\Debug\SFS.csprojAssemblyReference.cache
+C:\Users\PC1\Desktop\SFS\SFS\obj\Debug\SFS.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\SFS\SFS\obj\Debug\SFS.exe
+C:\Users\PC1\Desktop\SFS\SFS\obj\Debug\SFS.pdb
+C:\Users\PC1\Desktop\SimpleCSharpGame\SFS\bin\Debug\SFS.exe.config
+C:\Users\PC1\Desktop\SimpleCSharpGame\SFS\bin\Debug\SFS.exe
+C:\Users\PC1\Desktop\SimpleCSharpGame\SFS\bin\Debug\SFS.pdb
+C:\Users\PC1\Desktop\SimpleCSharpGame\SFS\obj\Debug\SFS.csprojAssemblyReference.cache
+C:\Users\PC1\Desktop\SimpleCSharpGame\SFS\obj\Debug\SFS.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\SimpleCSharpGame\SFS\obj\Debug\SFS.exe
+C:\Users\PC1\Desktop\SimpleCSharpGame\SFS\obj\Debug\SFS.pdb
